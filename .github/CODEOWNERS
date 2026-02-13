@@ -203,16 +203,16 @@
 # ServiceLabel: %Purview
 # AzureSdkOwners: @qiaozha
 
-# PRLabel: %Farmbeats
+# PRLabel: %AgriFood
 /sdk/agrifood/ @joheredi
 
-# ServiceLabel: %Farmbeats
+# ServiceLabel: %AgriFood
 # AzureSdkOwners: @joheredi
 
-# PRLabel: %ConfidentialLedger
+# PRLabel: %Confidential Ledger
 /sdk/confidentialledger/ @taicchoumsft
 
-# ServiceLabel: %ConfidentialLedger
+# ServiceLabel: %Confidential Ledger
 # AzureSdkOwners: @taicchoumsft
 
 # PRLabel: %DocumentTranslator
